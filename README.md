@@ -1,3 +1,4 @@
+![logo](https://github.com/pragyahimanshu/pragyahimanshu/blob/main/natural-landscape-banner-panoramic-beautiful-lake-forest-trees-river-with-blue-skies-mountains-background-horizontal-tropics-with-water-grass-cartoon-flat-vector-illustration_1002658-10.avif)
 <h1 align="center">Hi 👋, I'm Pragya himanshu</h1>
 <h3 align="center">From Code to Cricket — I Build, I Lead, I Win 🏏💻</h3>
 <img align="right" alt="jiya" width="284" src="https://github.com/user-attachments/assets/35e441f0-4da4-4675-bc0c-41f911edca3b" />
