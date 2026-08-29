@@ -5,6 +5,7 @@
 - 🔭 I'm currently working as an **Associate Software Engineer at MAQ Software**, building end-to-end features on **React.js, ASP.NET Web API, and SQL Server** within the Microsoft Fabric ecosystem.
 - 🌱 I'm currently learning and applying **spec-driven development, Entity Framework Core, Playwright for API testing, and database optimization.**
 - 👯 I'm looking to collaborate on **full-stack projects involving React.js frontends, .NET/C# backends, and SQL Server-driven data layers.**
+- 🧠 I follow a layered request flow in my full-stack work: **USER → UI → Feature State/Hook → API Client → HTTP/Auth → Controller → Service → Repository Interface → Repository Implementation → Database → DTO → back to UI.**
 - 🤝 I'm looking for help with **scaling backend architecture, refining Repository Pattern implementations, and advanced SQL query optimization.**
 - 👨‍💻 All of my projects are available at [github.com/pragyahimanshu](https://github.com/pragyahimanshu)
 - 📝 I regularly write articles on [🕗 Coming soon...](https://github.com/pragyahimanshu)
