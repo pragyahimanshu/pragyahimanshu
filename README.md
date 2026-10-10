@@ -2,8 +2,30 @@
 <h3 align="center">Turning Specs into Software — One Clean Architecture at a Time 🚀</h3>
 <img align="right" alt="jiya" width="284" src="https://github.com/user-attachments/assets/35e441f0-4da4-4675-bc0c-41f911edca3b" />
 
-- 🔭 I'm currently working as an **Associate Software Engineer at MAQ Software**, building end-to-end features on **React.js, ASP.NET Web API, and SQL Server** within the Microsoft Fabric ecosystem.
-- 🌱 I'm currently learning and applying **spec-driven development, Entity Framework Core, Playwright for API testing, and database optimization.**
+- 🔭 I'm currently open to new opportunities as a 
+  **Full Stack Developer** with expertise in 
+  **React.js, ASP.NET Core, C#, and SQL Server**.
+
+- 💼 Previously worked as an **Associate Software Engineer 
+  at MAQ Software**, building production-grade SaaS 
+  features within the Microsoft Fabric ecosystem.
+
+- 🌱 I'm currently deepening my skills in 
+  **System Design, Microservices, Docker, and 
+  Advanced SQL optimization**.
+
+- 👯 I'm looking to collaborate on **Full Stack 
+  projects using React.js + .NET**.
+
+- 💬 Ask me about **React.js, ASP.NET Core, C#, 
+  SQL Server, Redis, and RESTful API design**.
+
+- 📫 How to reach me: 
+  pragyahimanshu201@gmail.com
+
+- ⚡ Fun fact: 
+  I earned 3 Microsoft Certifications in my 
+  first year of professional experience!
 - 👯 I'm looking to collaborate on **full-stack projects involving React.js frontends, .NET/C# backends, and SQL Server-driven data layers.**
 - 🧠 I follow a layered request flow in my full-stack work: **USER → UI → Feature State/Hook → API Client → HTTP/Auth → Controller → Service → Repository Interface → Repository Implementation → Database → DTO → back to UI.**
 - 🤝 I'm looking for help with **scaling backend architecture, refining Repository Pattern implementations, and advanced SQL query optimization.**
