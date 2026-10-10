@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pragya Himanshu</h1>
 <h3 align="center">Turning Specs into Software — One Clean Architecture at a Time 🚀</h3>
+<p align="center">
+<a href="https://portfolio-one-delta-zh2k3l94l0.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
 <img align="right" alt="jiya" width="284" src="https://github.com/user-attachments/assets/35e441f0-4da4-4675-bc0c-41f911edca3b" />
 
 - 🔭 I'm currently open to new opportunities as a 
@@ -14,26 +20,24 @@
   **System Design, Microservices, Docker, and 
   Advanced SQL optimization**.
 
-- 👯 I'm looking to collaborate on **Full Stack 
-  projects using React.js + .NET**.
-
-- 💬 Ask me about **React.js, ASP.NET Core, C#, 
-  SQL Server, Redis, and RESTful API design**.
-
-- 📫 How to reach me: 
-  pragyahimanshu201@gmail.com
-
-- ⚡ Fun fact: 
-  I earned 3 Microsoft Certifications in my 
-  first year of professional experience!
 - 👯 I'm looking to collaborate on **full-stack projects involving React.js frontends, .NET/C# backends, and SQL Server-driven data layers.**
+
 - 🧠 I follow a layered request flow in my full-stack work: **USER → UI → Feature State/Hook → API Client → HTTP/Auth → Controller → Service → Repository Interface → Repository Implementation → Database → DTO → back to UI.**
+
 - 🤝 I'm looking for help with **scaling backend architecture, refining Repository Pattern implementations, and advanced SQL query optimization.**
+
 - 👨‍💻 All of my projects are available at [github.com/pragyahimanshu](https://github.com/pragyahimanshu)
+
 - 📝 I regularly write articles on [🕗 Coming soon...](https://github.com/pragyahimanshu)
+
 - 💬 Ask me about **React.js, C#, ASP.NET Web API, Java, SQL, Microsoft Fabric, and Data Structures & Algorithms (DSA).**
+
 - 📫 How to reach me **pragyahimanshu201@gmail.com**
+
 - 📄 Know about my experience: [Resume](https://app.luminpdf.com/viewer/67d3ecfb8a31c05457dc8965)
+
+- 🌐 Portfolio: [portfolio-one-delta-zh2k3l94l0.vercel.app](https://portfolio-one-delta-zh2k3l94l0.vercel.app)
+
 - ⚡ Fun fact **🥇 Won a school cricket championship and quiz competition — I code fast and run faster!**
 
 <h3 align="left">Connect with me:</h3>
@@ -57,7 +61,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  
 </p>
 
 <h3 align="left">My Toolbox:</h3>
@@ -74,4 +77,11 @@
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+<h3 align="left">🌐 Portfolio:</h3>
+<p align="left">
+<a href="https://portfolio-one-delta-zh2k3l94l0.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
